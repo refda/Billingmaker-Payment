@@ -1,7 +1,7 @@
 Erstellen Sie einen Zahlungsbutton. Dafür können Sie das folgende Beispiel übernehmen. Achtung: Alle Werte müssen angepasst werden.
 ```html
 <form action="https://payment.billingmaker.com/sepa/" method="post">
-        <input type="hidden" name="h" value="1" />
+	<input type="hidden" name="h" value="1" />
 	<input type="hidden" name="p" value="1,99" />
 	<input type="hidden" name="m" value="1" />
 	<input type="hidden" name="b" value="Test" />
