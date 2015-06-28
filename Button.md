@@ -18,5 +18,13 @@ Erläuterung der Werte:
 | Wert  | Beschreibung | Pflichtfeld |
 | ------------- | ------------- | ------------- |
 | h  | Ihre Händler-ID  | Ja |
+| p  | Preis im Format 1,99  | Ja |
+| m  | Modus (1=einmalig, 2=monatlich)  | Ja |
+| b  | Bezeichnung  | Ja |
+| c  | Individuelle Zuordnung für Ihr System  | Nein |
+| bild  | Bild-URL (ohne http) | Nein |
+| favicon  | Favicon-URL (ohne http)  | Nein |
+| rurl  | Zurückleitungs-URL (mit http)  | Nein |
+| nurl  | Benachrichtigungs-URL (mit http)  | Nein |
 
 Falls Sie einzelne Felder nicht nutzen wollen, müssen Sie die gesamte Zeile löschen. Dies ist nur möglich bei optionalen Feldern.
