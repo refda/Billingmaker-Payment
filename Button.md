@@ -10,6 +10,7 @@ Erstellen Sie einen Zahlungsbutton. Dafür können Sie das folgende Beispiel üb
 	<input type="hidden" name="favicon" value="www.briefklick.de/favicon.ico" />
 	<input type="hidden" name="rurl" value="http://www.briefklick.de/rurl" />
 	<input type="hidden" name="nurl" value="http://www.briefklick.de/nurl" />
+	<input type="hidden" name="aa" value="0" />
 	<input type="image" src="https://payment.billingmaker.com/logo/" border="0" name="submit" alt="-->" />
 </form>
 ```
@@ -26,5 +27,6 @@ Erläuterung der Werte:
 | favicon  | Favicon-URL (ohne http)  | Nein |
 | rurl  | Zurückleitungs-URL (mit http)  | Nein |
 | nurl  | Benachrichtigungs-URL (mit http)  | Nein |
+| aa  | AdressAbfrage (kann später ausgelesen werden)  | Nein |
 
 Falls Sie einzelne Felder nicht nutzen wollen, müssen Sie die gesamte Zeile löschen. Dies ist nur möglich bei optionalen Feldern.
