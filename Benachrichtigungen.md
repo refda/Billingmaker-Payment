@@ -9,3 +9,5 @@ Damit können Sie den Vorgang verifizieren.
 
 Rufen Sie dazu diese URL auf: https://payment.billingmaker.com/sepa/c/
 Die GET Parameter id und hash müssen übergeben werden. Sie erhalten dann eine Antwort im JSON Format mit weiteren Informationen.
+Ein Beispiel, wie eine Verifizierung in PHP aussehen könnte:
+**[Beispiel Überprüfung](Überprüfung.php)**
