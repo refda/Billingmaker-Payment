@@ -20,7 +20,7 @@ Erläuterung der Werte:
 | Wert  | Beschreibung | Pflichtfeld |
 | ------------- | ------------- | ------------- |
 | h  | Ihre Händler-ID  | Ja |
-| p  | Preis im Format 1,99  | Nein, dann wählbar |
+| p  | Preis im Format 1,99  | Ja |
 | m  | Modus (1=einmalig, 2=monatlich)  | Ja |
 | b  | Bezeichnung  | Ja |
 | c  | Individuelle Zuordnung für Ihr System  | Nein |
