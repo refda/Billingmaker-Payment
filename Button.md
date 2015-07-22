@@ -21,7 +21,7 @@ Erläuterung der Werte:
 | ------------- | ------------- | ------------- |
 | h  | Ihre Händler-ID  | Ja |
 | p  | Preis im Format 1,99  | Ja |
-| m  | Modus (1=einmalig, 2=monatlich)  | Ja |
+| m  | Modus (1=einmalig, 2=monatlich, 3=jährlich)  | Ja |
 | b  | Bezeichnung  | Ja |
 | c  | Individuelle Zuordnung für Ihr System  | Nein |
 | bild  | Bild-URL (ohne http) | Nein |
