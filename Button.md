@@ -12,6 +12,7 @@ Erstellen Sie einen Zahlungsbutton. Dafür können Sie das folgende Beispiel üb
 	<input type="hidden" name="nurl" value="http://www.briefklick.de/nurl" />
 	<input type="hidden" name="aa" value="0" />
 	<input type="hidden" name="em" value="0" />
+	<input type="hidden" name="lang" value="de" />
 	<input type="image" src="https://payment.billingmaker.com/logo/" border="0" name="submit" alt="-->" />
 </form>
 ```
@@ -30,5 +31,6 @@ Erläuterung der Werte:
 | nurl  | Benachrichtigungs-URL (mit http)  | Nein |
 | aa  | AdressAbfrage (kann später ausgelesen werden, 1=ein)  | Nein |
 | em  | EmailAbfrage (kann später ausgelesen werden, 1=ein)  | Nein |
+| lang  | Sprache (de=Deutsch, en=Englisch)  | Nein, dann Deutsch |
 
 Falls Sie einzelne Felder nicht nutzen wollen, müssen Sie die gesamte Zeile löschen. Dies ist nur möglich bei optionalen Feldern.
