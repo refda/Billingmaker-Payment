@@ -13,6 +13,11 @@ Erstellen Sie einen Zahlungsbutton. Dafür können Sie das folgende Beispiel üb
 	<input type="hidden" name="aa" value="0" />
 	<input type="hidden" name="em" value="0" />
 	<input type="hidden" name="lang" value="de" />
+	<input type="hidden" name="pre_name" value="Max Mustermann" />
+	<input type="hidden" name="pre_str" value="Musterstraße 405" />
+	<input type="hidden" name="pre_ort" value="45654 Musterstadt" />
+	<input type="hidden" name="pre_email" value="kunde@example.com" />
+	<input type="hidden" name="pre_iban" value="DE00000000000000000000" />
 	<input type="image" src="https://payment.billingmaker.com/logo/" border="0" name="submit" alt="-->" />
 </form>
 ```
@@ -32,5 +37,10 @@ Erläuterung der Werte:
 | aa  | AdressAbfrage (kann später ausgelesen werden, 1=ein)  | Nein |
 | em  | EmailAbfrage (kann später ausgelesen werden, 1=ein)  | Nein |
 | lang  | Sprache (de=Deutsch, en=Englisch)  | Nein, dann Deutsch |
+| pre_name  | Name hinterlegen  | Nein |
+| pre_str  | Straße/Hausnummer hinterlegen  | Nein |
+| pre_ort  | PLZ/Ort hinterlegen  | Nein |
+| pre_email  | Email hinterlegen  | Nein |
+| pre_iban  | IBAN hinterlegen  | Nein |
 
 Falls Sie einzelne Felder nicht nutzen wollen, müssen Sie die gesamte Zeile löschen. Dies ist nur möglich bei optionalen Feldern.
