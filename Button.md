@@ -18,8 +18,9 @@ Erstellen Sie einen Zahlungsbutton. Dafür können Sie das folgende Beispiel üb
 	<input type="hidden" name="pre_ort" value="45654 Musterstadt" />
 	<input type="hidden" name="pre_email" value="kunde@example.com" />
 	<input type="hidden" name="pre_iban" value="DE00000000000000000000" />
-	<input type="image" src="https://payment.billingmaker.com/logo/" border="0" name="submit" alt="-->" />
+	<input type="submit" class="btn-bpay" value="Jetzt zahlen" name="submit" />
 </form>
+<style>.btn-bpay{color:#fff;background-color:#337ab7;border-color:#2e6da4;padding:6px 12px;margin-bottom:2px;font-size:14px;font-weight:400;line-height:1.42857143;text-align:center;white-space:nowrap;vertical-align:middle;cursor:pointer;border:1px solid transparent;border-radius:4px;}</style><iframe allowtransparency="true" src="//payment.billingmaker.com/btn?methods=sepa" scrolling="no" height="25" width="40" frameborder="no" ></iframe>
 ```
 Erläuterung der Werte:
 
@@ -42,6 +43,9 @@ Erläuterung der Werte:
 | pre_ort  | PLZ/Ort hinterlegen  | Nein |
 | pre_email  | Email hinterlegen  | Nein |
 | pre_iban  | IBAN hinterlegen  | Nein |
+| methods  | Zahlungsmethoden (dd,cc,pp kommaseparierte Reihenfolge)  | Nein, dann dd |
 
 Falls Sie einzelne Felder nicht nutzen wollen, müssen Sie die gesamte Zeile löschen. Dies ist nur möglich bei optionalen Feldern.
 Die Hinterlegungsfelder (Prefill) pre_str, pre_ort und pre_email werden versteckt übergeben, falls aa bzw. em deaktiviert sind.
+
+Im Button kann der Text "Jetzt zahlen" individuell angepasst werden. Der <style> Tag kann für den Button angepasst oder entfernt werden. Gleiches gilt für den <iframe> Tag. Dieser ist zum Anzeigen von Logos gedacht. Folgende Parameter können kommasepariert angehängt werden: paypal,sepa,mastercard,visa,american-express,discover
