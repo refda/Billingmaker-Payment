@@ -15,7 +15,7 @@ Erstellen Sie einen Zahlungsbutton. Dafür können Sie das folgende Beispiel üb
 	<input type="hidden" name="lang" value="de" />
 	<input type="hidden" name="pre_name" value="Max Mustermann" />
 	<input type="hidden" name="pre_str" value="Musterstraße 405" />
-	<input type="hidden" name="pre_ort" value="45654 Musterstadt" />
+	<input type="hidden" name="pre_ort" value="45654 Musterstadt, Germany" />
 	<input type="hidden" name="pre_email" value="kunde@example.com" />
 	<input type="hidden" name="pre_iban" value="DE00000000000000000000" />
 	<input type="hidden" name="methods" value="dd,pp,cc" />
@@ -41,7 +41,7 @@ Erläuterung der Werte:
 | lang  | Sprache (de=Deutsch, en=Englisch)  | Nein, dann Deutsch |
 | pre_name  | Name hinterlegen  | Nein |
 | pre_str  | Straße/Hausnummer hinterlegen  | Nein |
-| pre_ort  | PLZ/Ort hinterlegen  | Nein |
+| pre_ort  | PLZ/Ort/Land hinterlegen  | Nein |
 | pre_email  | Email hinterlegen  | Nein |
 | pre_iban  | IBAN hinterlegen  | Nein |
 | methods  | Zahlungsmethoden (kommasepariert; dd=Lastschrift, cc=Kreditkarte, pp=PayPal)  | Nein, dann dd |
