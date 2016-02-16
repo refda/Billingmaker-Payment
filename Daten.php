@@ -8,4 +8,5 @@ $datum="15.02.2016";
 $type="p"; //p=PDF,x=XML
 $datei=file_get_contents($apilink."&d=".$datum."&t=".$type."&api=1");
 
-// Hinweis: Täglich um zirka 22:00 werden die Dateien erstellt, falls Einträge vorhanden sind. Ansonsten gibt die API den Statuscode 404 zurück.
+// Hinweis: Täglich um zirka 22:00 werden die PDF-Mandate und SEPA-XML Dateien erstellt, falls Einträge vorhanden sind.
+// Ansonsten gibt die API den Statuscode 404 zurück.
