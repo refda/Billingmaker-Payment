@@ -14,4 +14,6 @@ Außerdem lässt sich ein Infobutton/Logo einbinden und wiederkehrende Zahlungen
 
 **[Wiederkehrende Zahlungen löschen](Wiederkehrend.php)**
 
+**[SEPA Daten abrufen](Daten.php)**
+
 [Weitere Informationen](https://payment.billingmaker.com)
