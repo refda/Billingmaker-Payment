@@ -6,9 +6,9 @@ Hier finden Sie Informationen zu der Button-Generierung und das Einrichten von B
 
 Außerdem lässt sich ein Infobutton/Logo einbinden und wiederkehrende Zahlungen programmgesteuert löschen.
 
-**[Button erstellen](Button.md)**
+**[Zahlungsbutton erstellen](Button.md)**
 
-**[Benachrichtigungen einrichten](Benachrichtigungen.md)**
+**[Benachrichtigungen über Zahlungen einrichten](Benachrichtigungen.md)**
 
 **[Infobutton einbinden](Infobutton.html)**
 
