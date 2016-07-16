@@ -44,7 +44,7 @@ Erläuterung der Werte:
 | pre_ort  | PLZ/Ort/Land hinterlegen  | Nein |
 | pre_email  | Email hinterlegen  | Nein |
 | pre_iban  | IBAN hinterlegen  | Nein |
-| methods  | Zahlungsmethoden (kommasepariert; dd=Lastschrift, cc=Kreditkarte, pp=PayPal, uu=Überweisung)  | Nein, dann dd |
+| methods  | Zahlungsmethoden (kommasepariert; dd=Lastschrift, cc=Kreditkarte, pp=PayPal, uu=Überweisung, pd=paydirekt)  | Nein, dann dd |
 
 Falls Sie einzelne Felder nicht nutzen wollen, müssen Sie die gesamte Zeile löschen. Dies ist nur möglich bei optionalen Feldern.
 Die Hinterlegungsfelder (Prefill) pre_str, pre_ort und pre_email werden versteckt übergeben, falls aa bzw. em deaktiviert sind.
