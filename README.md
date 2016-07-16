@@ -1,7 +1,7 @@
 Billingmaker Payment
 ====================
 
-Mit Billingmaker Payment können Sie unkompliziert Lastschriften (SEPA) einziehen und weitere Zahlungsmöglichkeiten, wie PayPal, Kreditkarten und Überweisungen online akzeptieren.
+Mit Billingmaker Payment können Sie unkompliziert Lastschriften (SEPA) einziehen und weitere Zahlungsmöglichkeiten, wie paydirekt, PayPal, Kreditkarten und Überweisungen online akzeptieren.
 Hier finden Sie Informationen zu der Zahlbutton-Generierung und das Einrichten von Benachrichtigungen an Ihr System.
 
 Außerdem lässt sich ein Infobutton/Logo einbinden und wiederkehrende Zahlungen programmgesteuert löschen.
