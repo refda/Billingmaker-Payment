@@ -44,9 +44,9 @@ Erläuterung der Werte:
 | pre_ort  | PLZ/Ort/Land hinterlegen  | Nein |
 | pre_email  | Email hinterlegen  | Nein |
 | pre_iban  | IBAN hinterlegen  | Nein |
-| methods  | Zahlungsmethoden (kommasepariert; dd=Lastschrift, cc=Kreditkarte, pp=PayPal, uu=Überweisung, pd=paydirekt)  | Nein, dann dd |
+| methods  | Zahlungsmethoden (kommasepariert; dd=Lastschrift, cc=Kreditkarte, pp=PayPal, uu=Überweisung, pd=paydirekt, so=SOFORT, gp=Giropay)  | Nein, dann dd |
 
 Falls Sie einzelne Felder nicht nutzen wollen, müssen Sie die gesamte Zeile löschen. Dies ist nur möglich bei optionalen Feldern.
 Die Hinterlegungsfelder (Prefill) pre_str, pre_ort und pre_email werden versteckt übergeben, falls aa bzw. em deaktiviert sind.
 
-Im Button kann der Text "Jetzt zahlen" individuell angepasst werden. Der ```<style>``` Tag kann für den Button angepasst oder entfernt werden. Gleiches gilt für den ```<iframe>``` Tag. Dieser ist zum Anzeigen von Logos gedacht. Folgende Parameter können kommasepariert angehängt werden: paydirekt,paypal,sepa,mastercard,visa,american-express,discover,bank-transfer. Die Breite muss je nach Anzahl der Logos (n) ausgerechnet werden: 40+44*(n-1)
+Im Button kann der Text "Jetzt zahlen" individuell angepasst werden. Der ```<style>``` Tag kann für den Button angepasst oder entfernt werden. Gleiches gilt für den ```<iframe>``` Tag. Dieser ist zum Anzeigen von Logos gedacht. Folgende Parameter können kommasepariert angehängt werden: sofort,giropay,paydirekt,paypal,sepa,mastercard,visa,american-express,discover,bank-transfer. Die Breite muss je nach Anzahl der Logos (n) ausgerechnet werden: 40+44*(n-1)
