@@ -18,7 +18,7 @@ Erstellen Sie einen Zahlungsbutton. Dafür können Sie das folgende Beispiel üb
 	<input type="hidden" name="pre_ort" value="45654 Musterstadt, Germany" />
 	<input type="hidden" name="pre_email" value="kunde@example.com" />
 	<input type="hidden" name="pre_iban" value="DE00000000000000000000" />
-	<input type="hidden" name="methods" value="dd,pp,cc,uu,pd" />
+	<input type="hidden" name="methods" value="dd,pp,cc,uu,pd,so,gp" />
 	<input type="submit" class="btn-bpay" value="Jetzt zahlen" name="submit" />
 </form>
 <style>.btn-bpay{color:#fff;background-color:#337ab7;border-color:#2e6da4;padding:6px 12px;margin-bottom:2px;font-size:14px;font-weight:400;line-height:1.42857143;text-align:center;white-space:nowrap;vertical-align:middle;cursor:pointer;border:1px solid transparent;border-radius:4px;}</style><iframe allowtransparency="true" src="//payment.billingmaker.com/btn?methods=sepa" scrolling="no" height="25" width="40" frameborder="no" ></iframe>
