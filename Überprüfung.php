@@ -23,7 +23,7 @@ if ($json['name']!='') {
   "kstr": "Straße 12",
   "kort": "11111 Musterstadt",
   "ema": "mail@example.com"
-  "method": "0" //0=Lastschrift, 1=PayPal, 2=Kreditkarte, 3=Überweisung, 4=paydirekt
+  "method": "0" //0=Lastschrift, 1=PayPal, 2=Kreditkarte, 3=Überweisung, 4=paydirekt, 5=SOFORT, 6=Giropay
 }
 
 */
