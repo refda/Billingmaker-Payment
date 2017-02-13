@@ -17,7 +17,7 @@ if ($json['name']!='') {
   "ip": "0.0.0.0",
   "datum": "2016-01-20 21:36:26",
   "bezeichnung": "Rechnung 121",
-  "modus": "1",
+  "modus": "1", //1=einmalig, 2=monatlich, 3=jährlich
   "preis": "0,72",
   "c": "custom-parameter",
   "kstr": "Straße 12",
