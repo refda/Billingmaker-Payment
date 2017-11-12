@@ -2,11 +2,11 @@ Möchten Sie Kartenzahlungen annehmen? Dann können Sie dies nun mit einem PC/SC
 
 Einfach das Plugin [für Windows](http://plugin.cardid.org/webcard.msi) oder [für Mac OS X](http://plugin.cardid.org/webcard.dmg) + [Smart Card Services für Mac OS X](http://smartcardservices.macosforge.org/) installieren. 
 
-Danach Firefox (oder anderen NAPI fähigen Browser) starten und in das Backend von Billingmaker Payment gehen. Dort "Point of Sale" auswählen, Betrag eingeben und Karte einstecken.
+Danach Firefox bis Version 51* (oder anderen NAPI fähigen Browser) starten und in das Backend von Billingmaker Payment gehen. Dort "Point of Sale" auswählen, Betrag eingeben und Karte einstecken.
 
 Falls Sie diese Möglichkeit in eine Software integrieren möchten, können Sie folgende URL verwenden:
 https://payment.billingmaker.com/pos/?i=0&h=XYZ&p=4,99 (0 durch Ihre Händler ID, XYZ durch Ihr Passwort und 4,99 durch den Preis ersetzen)
 
 Weitere Informationen erhalten Sie auch [hier](https://payment.billingmaker.com/info/point-of-sale-kartenzahlung).
 
-<sup><sup>Hinweise: Nur mit deutschen Bankkarten möglich. Es werden die gängigsten Bankkarten unterstützt - keine Kreditkarten! Billingmaker Payment generiert IBAN und BIC, diese müssen von Ihnen vor dem Bestätigen überprüft werden. Bitte auch die Unterschrift des Kunden prüfen. Billingmaker Payment übernimmt keine Haftung bei falsch generierten Bankverbindungsdaten.</sup></sup>
+<sup><sup>Hinweise: Nur mit deutschen Bankkarten möglich. Es werden die gängigsten Bankkarten unterstützt - keine Kreditkarten! Billingmaker Payment generiert IBAN und BIC, diese müssen von Ihnen vor dem Bestätigen überprüft werden. Bitte auch die Unterschrift des Kunden prüfen. Billingmaker Payment übernimmt keine Haftung bei falsch generierten Bankverbindungsdaten. * Firefox Portable mit NAPI Unterstützung lässt sich bspw. hier bei einem externen Anbieter downloaden: https://www.firefox-usb.com/download/FirefoxPortable32-51.0.1.zip</sup></sup>
