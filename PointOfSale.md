@@ -10,4 +10,4 @@ https://payment.billingmaker.com/pos/?i=0&h=XYZ&p=4,99 (0 durch Ihre Händler ID
 Weitere Informationen erhalten Sie auch [hier](https://payment.billingmaker.com/info/point-of-sale-kartenzahlung).
 
 <sup>Hinweise: Nur mit deutschen Bankkarten möglich. Es werden die gängigsten Bankkarten unterstützt - keine Kreditkarten! Billingmaker Payment generiert IBAN und BIC, diese müssen von Ihnen vor dem Bestätigen überprüft werden. Bitte auch die Unterschrift des Kunden prüfen. Billingmaker Payment übernimmt keine Haftung bei falsch generierten Bankverbindungsdaten. 
-* Firefox Portable mit NAPI Unterstützung lässt sich bspw. hier bei einem externen Anbieter downloaden: https://www.firefox-usb.com/download/FirefoxPortable32-51.0.1.zip</sup>
+  * Firefox Portable mit NAPI Unterstützung lässt sich bspw. hier bei einem externen Anbieter downloaden: https://www.firefox-usb.com/download/FirefoxPortable32-51.0.1.zip</sup>
