@@ -11,4 +11,4 @@ Weitere Informationen erhalten Sie auch [hier](https://payment.billingmaker.com/
 
 <sup>Hinweise: Nur mit deutschen Bankkarten möglich. Es werden die gängigsten Bankkarten unterstützt - keine Kreditkarten! Billingmaker Payment generiert IBAN und BIC, diese müssen von Ihnen vor dem Bestätigen überprüft werden. Bitte auch die Unterschrift des Kunden prüfen. Billingmaker Payment übernimmt keine Haftung bei falsch generierten Bankverbindungsdaten.</sup> 
 
-<sup>** Firefox Portable mit NAPI Unterstützung lässt sich bspw. hier bei einem externen Anbieter downloaden: https://www.firefox-usb.com/download/FirefoxPortable32-51.0.1.zip</sup>
+<sup>** Firefox Portable mit NAPI Unterstützung lässt sich bspw. hier bei einem externen Anbieter downloaden: https://ftp.mozilla.org/pub/firefox/releases/51.0.1/win32/de/Firefox%20Setup%2051.0.1.exe</sup>
