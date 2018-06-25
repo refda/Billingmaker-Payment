@@ -12,6 +12,7 @@ if ($json['name']!='') {
 /* JSON Objekt, welches zurückgegeben wird.
 
 {
+  "handler": "13", //bitte die eigene Handler-ID hiermit überprüfen!
   "name": "Vorname Nachname",
   "iban": "DE00000000000000000000",
   "ip": "0.0.0.0",
