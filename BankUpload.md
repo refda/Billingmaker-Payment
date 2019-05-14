@@ -2,7 +2,7 @@ Bei Billingmaker Payment erhalten Sie fertig zusammengestellte Lastschriftdateie
 Falls dies nicht über das Onlinebanking möglich sein sollte, können Sie die kostenlose Software Jameica-Hibiscus verwenden.
 
 Einrichtung der Software:
-1. Software für Windows unter https://hibiscus-setup.derrichter.de/Jameica-Hibiscus_Win64-Installer.exe herunterladen.
+1. Software für Windows unter https://hibiscus-setup.derrichter.de/Jameica-Hibiscus_Win64-Installer.exe herunterladen und installieren.
 2. Programm starten und links "Bank-Zugänge" anklicken.
 3. Rechts auf den Button "+ Neuer Bank-Zugang" klicken und als Verfahren PIN/TAN auswählen.
 
