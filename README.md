@@ -16,7 +16,7 @@ Sie können anfallende SEPA XML Bankdateien per API herunterladen und Kartenzahl
 
 **[Wiederkehrende Zahlungen löschen](Wiederkehrend.php)**
 
-**[SEPA XML Daten abrufen](Daten.php)**
+**[SEPA XML Daten abrufen](Daten.php)** und **[SEPA XML Daten einreichen, Software](BankUpload.md)**
 
 **[Point of Sale / Kartenzahlungen](PointOfSale.md)**
 
