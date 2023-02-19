@@ -1,6 +1,6 @@
 <?php
 // ZU ERLEDIGEN:
-// 1. Ersetzen Sie die Händler ID und das Passwort.
+// 1. Ersetzen Sie die Händler ID und das API-Passwort. Das API-Passwort erhalten Sie auf Anfrage von Support. 
 // 2. Ersetzen Sie die Werte datum und type nach Belieben.
 // 3. Deaktivieren Sie bei Bedarf die SEPA Mail im Benutzeraccount.
 $handler_id="0";
