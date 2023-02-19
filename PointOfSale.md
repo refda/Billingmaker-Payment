@@ -5,7 +5,7 @@ Einfach das Plugin [für Windows](http://plugin.cardid.org/webcard.msi) oder [f�
 Danach Chrome bis Version 41** (oder anderen NAPI fähigen Browser) starten und in das Backend von Billingmaker Payment gehen. Dort "Point of Sale" auswählen, Betrag eingeben und Karte einstecken.
 
 Falls Sie diese Möglichkeit in eine Software integrieren möchten, können Sie folgende URL verwenden:
-https://payment.billingmaker.com/pos/?i=0&h=XYZ&p=4,99 (0 durch Ihre Händler ID, XYZ durch Ihr Passwort und 4,99 durch den Preis ersetzen)
+https://payment.billingmaker.com/pos/?i=0&h=XYZ&p=4,99 (0 durch Ihre Händler ID, XYZ durch Ihr Terminal-Passwort und 4,99 durch den Preis ersetzen)
 
 Weitere Informationen erhalten Sie auch [hier](https://payment.billingmaker.com/info/point-of-sale-kartenzahlung).
 
