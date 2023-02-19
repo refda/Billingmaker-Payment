@@ -1,6 +1,6 @@
 <?php
 // ZU ERLEDIGEN:
-// 1. Ersetzen Sie die Händler ID und das Passwort.
+// 1. Ersetzen Sie die Händler ID und das API-Passwort. Das API-Passwort erhalten Sie auf Anfrage von Support.
 // 2. Ersetzen Sie die ID des zu löschenden Vorganges. Die ID haben Sie zuvor über die programmgesteuerte Benachrichtigung erhalten.
 $handler_id="0";
 $passwort="XYZ";
